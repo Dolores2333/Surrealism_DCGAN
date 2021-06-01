@@ -1,0 +1,7 @@
+selenium
+time
+bs4
+PIL
+keras
+matplotlib
+tensorflow
