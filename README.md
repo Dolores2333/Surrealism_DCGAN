@@ -1,6 +1,7 @@
 <p align="right">
 <i>contact: mzha (at) ust(dot) hk</i>
 </p>
+
 # Surrealism_DCGAN
 Reimplementation of [art-DCGAN by Robbie Barrat](https://github.com/robbiebarrat/art-DCGAN) and [Jordan Bird](https://github.com/jordan-bird/art-DCGAN-Keras) on Dataset scraped from WikiArt by code adapted from [CHEN Huangrong](http://chenhuangrong.com/2018/10/26/2018-10-26-downloading-images-from-wikiart/)
 # Real Surrealism Examples
