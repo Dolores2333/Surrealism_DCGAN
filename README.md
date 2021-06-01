@@ -3,7 +3,7 @@
 </p>
 
 # Surrealism_DCGAN
-Reimplementation of [art-DCGAN by Robbie Barrat](https://github.com/robbiebarrat/art-DCGAN) and [Jordan Bird](https://github.com/jordan-bird/art-DCGAN-Keras) in art-dcgan-keras. 
+Reimplementation of [art-DCGAN by Robbie Barrat](https://github.com/robbiebarrat/art-DCGAN) and [Jordan Bird](https://github.com/jordan-bird/art-DCGAN-Keras) in art-dcgan-keras. Pics of style surrealism is scraped from [WikiArt](https://www.wikiart.org/) for training. 
 
 ### utils
 utils is a folder for obtaining the training dataset from scratch. it is composed of:
@@ -20,7 +20,7 @@ output stores outputs in two subfolder
 - samples
 - weights
 
-## Real Surrealism Examples
+## Training Data Examples
 ![eg1](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/000.png)
 ![eg2](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/ascensionist-saint-cecilia.png)
 ![eg3](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/atrani-coast-of-amalfi-1.png)
