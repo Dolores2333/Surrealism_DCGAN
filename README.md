@@ -31,6 +31,10 @@ output stores outputs in two subfolder
 ![eg1](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/1622532689931.png)
 ![eg2](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/1622532726930.png)
 ![eg3](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/1622532865217.png)
+![eg4](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/1622532533601.png)
+![eg5](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/1622532828274.png)
+![eg6](https://github.com/Dolores2333/Surrealism_DCGAN/blob/main/pics/1622532874466.png)
+
 
 # Future work
 - Fire the art-dcgan-keras.py to command line with genre, epoch ect. as args
